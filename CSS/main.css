@@ -1,0 +1,43 @@
+#sports h2 {
+    color: darkcyan;
+}
+#sports h3 {
+    color: darkcyan;
+}
+#sports p {
+    color: darkcyan;
+}
+
+#economy h2 {
+    color: gold;
+}
+#economy h3 {
+    color: gold;
+}
+#economy p {
+    color: gold;
+}
+
+#entertainment h2 {
+    color: palevioletred;
+}
+#entertainment h3 {
+    color: palevioletred;
+}
+#entertainment p {
+    color: palevioletred;
+}
+
+#technology h2 {
+    color: blue;
+}
+#technology h3 {
+    color: blue;
+}
+#technology p {
+    color: blue;
+}
+
+time {
+    color: gainsboro;
+}
