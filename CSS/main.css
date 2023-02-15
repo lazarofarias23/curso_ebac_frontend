@@ -1,43 +1,28 @@
-#sports h2 {
-    color: darkcyan;
-}
-#sports h3 {
-    color: darkcyan;
-}
-#sports p {
-    color: darkcyan;
+. {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;    
 }
 
-#economy h2 {
-    color: gold;
-}
-#economy h3 {
-    color: gold;
-}
-#economy p {
-    color: gold;
+header li {
+    display: inline;
 }
 
-#entertainment h2 {
-    color: palevioletred;
-}
-#entertainment h3 {
-    color: palevioletred;
-}
-#entertainment p {
-    color: palevioletred;
+.container {
+    width: 1366px;
+    margin: 0 auto;
 }
 
-#technology h2 {
-    color: blue;
-}
-#technology h3 {
-    color: blue;
-}
-#technology p {
-    color: blue;
+.articles {
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
 }
 
-time {
-    color: gainsboro;
+.articles article img {
+    height: 180px;
+}
+
+.articles article {
+    width: 30%;
 }
